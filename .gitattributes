@@ -1,0 +1,11 @@
+# https://github.com/github/linguist/#generated-code
+
+*.pl linguist-language=Perl
+
+.git*     linguist-vendored
+.gr       linguist-vendored
+UTIL/*    linguist-vendored
+*.md      linguist-documentation
+CONFIG.pl linguist-generated
+tfnohup2dat linguist-generated
+
