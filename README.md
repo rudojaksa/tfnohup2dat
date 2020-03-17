@@ -21,5 +21,5 @@ Compressed input files file.gz, file.lz, or .zst are also accepted.
      -r  Print raw input with non-ASCII characters removed.
 
 ### VERSION
-tfnohup2dat-0.2a (c) R.Jaksa 2019,2020 GPLv3 (built 20200317.2343 on brix)
+tfnohup2dat-0.2 (c) R.Jaksa 2019,2020 GPLv3
 
